@@ -1,7 +1,7 @@
 
 # -----------------------------------------------------------------------------------------------------------
 # adb  +  appium  基 础 参 数
-# Automatic Server 运行程序提示是否run ,可以点击下边的这个选项来启动
+# Automatic Server 如果出现 Could not connect to server; are you sure it's running? 就点击下面的选项再启动
 # Custom Server
 # 除了设置java se 和 android sdk 及 appium 添加path ,还要将 appium 里
 # 的 aapt 添加到 path 系统环境里边 地址： C:\Program Files (x86)\Android\android-sdk\build-tools\29.0.0
