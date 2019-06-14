@@ -1,8 +1,9 @@
 
-# ------------------------------------------------
+# ------------------------------------------------------------------
 # adb  +  appium  基 础 参 数
-
-# ------------------------------------------------
+# Automatic Server 运行程序提示是否run ,可以点击下边的这个选项来启动
+# Custom Server
+# ------------------------------------------------------------------
 
 # 查 看 当 前手  机 运 行 的 app 名 称 及 进 程 名 字
 
@@ -10,7 +11,7 @@
 
 # 结果：  mCurrentFocus=Window{2b2e12bd u0 com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.main.MainActivity}
 
-# 包名 ： com.ss.android.ugc.aweme  进程入口名：.main.MainActivity  注意开头的“.”
+# 包名 ： com.ss.android.ugc.aweme  进程入口名：com.ss.android.ugc.aweme.main.MainActivity  注意这是个完整进口，一定要完整的才行
 
 
 #查 看 手 机 的 设 备 编 号
