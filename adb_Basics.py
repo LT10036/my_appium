@@ -5,6 +5,8 @@
 # Custom Server
 # 除了设置java se 和 android sdk 及 appium 添加path ,还要将 appium 里
 # 的 aapt 添加到 path 系统环境里边 地址： C:\Program Files (x86)\Android\android-sdk\build-tools\29.0.0
+# 安卓5.1系统 启动：
+# No route found. Setting content type to 'text/plain'   切换旧版本appium即可
 # -----------------------------------------------------------------------------------------------------------
 
 # 查 看 当 前手  机 运 行 的 app 名 称 及 进 程 名 字
