@@ -7,6 +7,7 @@
 # 的 aapt 添加到 path 系统环境里边 地址： C:\Program Files (x86)\Android\android-sdk\build-tools\29.0.0
 # 安卓5.1系统 启动：
 # No route found. Setting content type to 'text/plain'   切换旧版本appium即可  地址：在我的百度网盘
+# desired_caps['udid'] = '88MFDMG3AVLH' 如果要同时开启两台手机上的app  需要添加这个选项，参数就是设备码
 # -----------------------------------------------------------------------------------------------------------
 
 # 查 看 当 前手  机 运 行 的 app 名 称 及 进 程 名 字
@@ -43,7 +44,9 @@
 #
 #     5.appActivity：apk的launcherActivity
 
-#     6.automationName:UiAutomator2  避免重复安装appiumsetting 包
+#     6.automationName: UiAutomator2  避免重复安装appiumsetting 包
+# 
+#     7.udid = '88MFDMG3AVLH' 如果要同时开启两台手机上的app  需要添加这个选项，参数就是手机设备码
 
 
 
