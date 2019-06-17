@@ -43,6 +43,8 @@
 #
 #     5.appActivity：apk的launcherActivity
 
+#     6.automationName:UiAutomator2  避免重复安装appiumsetting 包
+
 
 
 
