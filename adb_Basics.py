@@ -32,7 +32,7 @@
 # 命令： adb shell getprop ro.build.version.release
 #
 # 结果： 5.1     安卓版本
-#
+#      
 #
 #     1.platformName：这里是android的apk
 #
@@ -47,6 +47,8 @@
 #     6.automationName: UiAutomator2  避免重复安装appiumsetting 包
 # 
 #     7.udid = '88MFDMG3AVLH' 如果要同时开启两台手机上的app  需要添加这个选项，参数就是手机设备码
+
+#     8.newCommandTimeout=‘300’  设置 300 秒无指令才关闭app,默认是 60 秒
 
 
 
